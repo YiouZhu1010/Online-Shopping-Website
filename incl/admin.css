@@ -1,0 +1,21 @@
+fieldset{width:310px}
+form label{clear:left;float:left;width:90px;line-height:22px}
+form div{padding:4px 0}
+input[type=text],input[type=number],select,textarea{width:200px}
+.productField{width:400px;}
+.productLabel{width:150px;}
+article {display:inline-flex;}
+#categoryAdmin{flex:1;}
+#column2{flex:1;}
+#productEditPanel{flex:1;}
+#categoryPanel,#categoryEditPanel,#categoryRemovePanel{width:350px;border-right:1px solid #CCC}
+#productPanel,#productEditPanel,#productRemovePanel{padding-left:10px;padding-right:10px;border-right:1px solid #CCC;}
+#categoryList span{cursor:pointer;text-decoration:underline;color:#00F}
+#categoryList span:hover{text-decoration:none}
+#categoryList span.edit, #categoryList span.delete{float:right;padding-right:10px}
+span{color:red;}
+tr, td, th{font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;}
+tr{height:30px;}
+tr:nth-child(even) {background-color: #f2f2f2}
+th {background-color: #0084cc;color: white;}
+table{width:100%;}

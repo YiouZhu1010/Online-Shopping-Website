@@ -1,0 +1,77 @@
+h1{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:#4a6187;
+	text-align:center;
+	font-size:40px;
+	text-shadow:0px 4px 4px #edf3fc;
+}
+label{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:#0C1C3B;
+}
+#guidetext{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:#0084cc;;
+	font-size:24px;
+	width:20%;
+	margin:auto;
+	text-align: center;
+}
+#field{
+	width:40%;
+	margin:auto;
+	border-radius:10px;
+	border-style:solid;
+	border-width:5px;
+	border-color:#edf3fc;
+}
+#content{
+	width:60%;
+	margin:auto;
+}
+/*#loginForm{
+	width:100%;
+	text-align: center;
+}*/
+input{
+	width:100%;
+	height:auto;
+}
+#button{
+	border:none;
+	width:100px;
+	height:30px;
+	font-size:14px;
+	color:white;
+	margin-top:5px;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	background-color:#0084cc;
+}
+.error{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 14px;
+	color: red;
+}
+#home{
+	text-align: right;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 18px;
+	margin-right:50px;
+	margin-top: -20px;
+}
+#hometext{
+	color:#0084cc;	
+}
+#resetpw{
+	border:none;
+	width:150px;
+	height:30px;
+	font-size:14px;
+	color:white;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	background-color:#24a02f;
+}
+#buttonfield{
+	width:60%;
+	margin: auto;
+}
